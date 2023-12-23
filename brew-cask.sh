@@ -25,10 +25,10 @@ brew install --cask vlc
 brew install --cask spotify
 
 # install developer tools
+brew install git
 brew install --cask visual-studio-code
 brew install --cask postman
-brew install git
-brew install docker
+brew install --cask docker
 
 # manual steps
 echo "Make sure to create an SSH key pair and restrict access to .ssh using chmod 700 ~/.ssh"
