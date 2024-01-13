@@ -23,6 +23,7 @@ brew install --cask thunderbird
 brew install --cask rectangle
 brew install --cask vlc
 brew install --cask spotify
+brew install --cask microsoft-remote-desktop
 
 # install developer tools
 brew install git
