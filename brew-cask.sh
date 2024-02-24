@@ -5,6 +5,9 @@
 
 brew update
 
+# third-party repositories
+brew tap macos-fuse-t/homebrew-cask
+
 # install browsers
 brew install --cask firefox
 
@@ -15,8 +18,10 @@ brew install --cask signal
 
 # install security tools
 brew install --cask bitwarden
-brew install --cask cryptomator
 brew install --cask mullvadvpn
+brew install --cask cryptomator
+brew install fuse-t
+brew install fuse-t-sshfs
 
 # install misc tools
 brew install --cask thunderbird
