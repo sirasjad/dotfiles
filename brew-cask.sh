@@ -32,6 +32,7 @@ brew install --cask microsoft-remote-desktop
 
 # install developer tools
 brew install git
+brew install dotnet
 brew install --cask visual-studio-code
 brew install --cask postman
 brew install --cask docker
