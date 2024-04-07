@@ -36,6 +36,7 @@ brew install dotnet
 brew install --cask visual-studio-code
 brew install --cask postman
 brew install --cask docker
+brew install --cask figma
 
 # manual steps
 echo "Make sure to create an SSH key pair and restrict access to .ssh using chmod 700 ~/.ssh"
