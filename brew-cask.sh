@@ -29,6 +29,7 @@ brew install --cask rectangle
 brew install --cask vlc
 brew install --cask spotify
 brew install --cask microsoft-remote-desktop
+brew install --cask logi-options+
 
 # install developer tools
 brew install git
