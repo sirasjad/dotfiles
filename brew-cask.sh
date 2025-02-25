@@ -30,6 +30,7 @@ brew install --cask vlc
 brew install --cask spotify
 brew install --cask microsoft-remote-desktop
 brew install --cask logi-options+
+brew install --cask google-drive
 
 # install developer tools
 brew install git
